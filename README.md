@@ -1,4 +1,4 @@
-# Predicting-Student-Performance-Using-Machine-Learning
+# Predicting-Student-Performance-Using-ML
 
 In today's educational landscape, understanding the factors that contribute to a student's academic performance is crucial for educators, parents, and policymakers. This project leverages machine learning techniques to predict a student's performance in mathematics based on various factors. By providing accurate predictions, this tool can help identify students who may need additional support and tailor educational strategies accordingly.
 
